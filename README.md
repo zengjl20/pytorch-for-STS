@@ -1,2 +1,15 @@
-# pytorch-for-STS
-the code can achieve the task "STS"
+## Requirement
+* python 3
+* pytorch > 0.1
+* torchtext > 0.1
+* numpy
+
+## Run command
+* cnn: 
+    python main.py
+* lstm: 
+    python main.py -use-cnn=False
+* lstm_with_attention: 
+    python main.py -use-cnn=False -use-att=True
+
+## Tips
