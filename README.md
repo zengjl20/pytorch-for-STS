@@ -1,6 +1,6 @@
 ## Requirement
 * python 3
-* pytorch > 0.1
+* pytorch > 1.0
 * torchtext > 0.1
 * numpy
 
