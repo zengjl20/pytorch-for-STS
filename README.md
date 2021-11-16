@@ -11,9 +11,9 @@
 ## 模型训练启动命令
 * 卷积神经网络模型:  
     `python main.py`
-* lstm模型:  
+* LSTM模型:  
     `python main.py -use-cnn=False`
-* 带注意力机制的lstm模型:  
+* 带注意力机制的LSTM模型:  
     `python main.py -use-cnn=False -use-att=True`
 
 ## Tips
